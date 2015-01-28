@@ -11,7 +11,7 @@ Also their are a lot of developer don't know that is the list of things he / she
 All the [*] marked sites has support for account registration.
 
 <ol>
-<li>http://github.com Web based code repository. [*]</li>
+<li>http://github.com/ Web based code repository. [*]</li>
 <li>https://gist.github.com/ Share / Backup you code snippets. [*]</li>
 <li>http://jsfiddle.net/ Share your code / create example of code online. [*]</li>
 <li>https://codeschool.com/ Learn how to code or web technologies in the comfort of your browser. [*]</li>

@@ -7,8 +7,14 @@ As always I tried to keep my eyes on Git that's why I am going to make this repo
 
 Also their are a lot of developer don't know that is the list of things he / she must know about, this is where they can find the list.
 
+## List of Awesome
+All the [*] marked sites has support for account registration.
+
 <ol>
-<li>http://phpclasses.org/ A site for PHP Class Scripts, Tutorials. [Support account registration]</li>
+<li>http://codeigniter.com/ A rich and most popular PHP MVC frameworks.<li>
+<li>http://cakephp.org/ A rich PHP MVC frameworks.</li>
+<li>http://zend.com A site for PHP Zend Framework, Certification, IDE, Server, Training, Book etc. [*]<li>
+<li>http://phpclasses.org/ A site for PHP Class Scripts, Tutorials. [*]</li>
 <li>http://sourceforge.net/projects/adodb/ Database abstraction library for PHP and Python</li>
 <li>http://smarty.net A very old and rich Templating Framework.</li>
 <li>http://code.tutsplus.com/ A website about Web Design / Development News, Tutorials, Articles.</li>

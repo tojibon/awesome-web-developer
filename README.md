@@ -9,6 +9,7 @@ Also their are a lot of developer don't know that is the list of things he / she
 
 <ol>
 <li>http://phpclasses.org/ A site for PHP Class Scripts, Tutorials. [Support account registration]</li>
+<li>http://sourceforge.net/projects/adodb/ Database abstraction library for PHP and Python</li>
 <li>http://smarty.net A very old and rich Templating Framework.</li>
 <li>http://code.tutsplus.com/ A website about Web Design / Development News, Tutorials, Articles.</li>
 <li>http://sixrevisions.com/ A website about Web Design / Development News, Tutorials, Articles.</li>

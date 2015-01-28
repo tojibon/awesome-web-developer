@@ -7,6 +7,10 @@ As always I tried to keep my eyes on Git that's why I am going to make this repo
 
 Also their are a lot of developer don't know that is the list of things he / she must know about, this is where they can find the list.
 
+<ol>
+<li>http://backbonejs.org/ JavaScript library / MVC framework.</li>
+</ol>
+
 ## Contributing
 
 Contributions are most welcome!

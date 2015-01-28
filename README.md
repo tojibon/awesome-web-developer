@@ -11,13 +11,14 @@ Also their are a lot of developer don't know that is the list of things he / she
 All the [*] marked sites has support for account registration.
 
 <ol>
+<li>http://codepen.io/ It is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write. [*]</li>
 <li>http://stackoverflow.com/ A question and answer site for professional and enthusiast programmers. [*]</li>
 <li>https://freelancer.com/  Online staffing platform where you can sell your work. [*]</li>
 <li>https://odesk.com/  Online staffing platform where you can sell your work. [*]</li>
 <li>https://elance.com/ Online staffing platform where you can sell your work. [*]</li>
 <li>http://github.com/ Web based code repository. [*]</li>
 <li>https://gist.github.com/ Share / Backup you code snippets. [*]</li>
-<li>http://jsfiddle.net/ Share your code / create example of code online. [*]</li>
+<li>http://jsfiddle.net/ It is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write. [*]</li>
 <li>https://codeschool.com/ Learn how to code or web technologies in the comfort of your browser. [*]</li>
 <li>http://try.github.com/ Learn Git in 15 minutes.</li>
 <li>http://git-scm.com/ A distributed revision control system for your code or script.</li>

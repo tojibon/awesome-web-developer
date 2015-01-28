@@ -11,6 +11,7 @@ Also their are a lot of developer don't know that is the list of things he / she
 All the [*] marked sites has support for account registration.
 
 <ol>
+<li>https://codeschool.com/ Learn how to code or web technologies in the comfort of your browser. [*]</li>
 <li>http://try.github.com/ Learn Git in 15 minutes.</li>
 <li>http://git-scm.com/ A distributed revision control system for your code or script.</li>
 <li>http://daringfireball.net/projects/markdown/  A markup language with plain text formatting syntax. </li>

@@ -11,8 +11,9 @@ Also their are a lot of developer don't know that is the list of things he / she
 All the [*] marked sites has support for account registration.
 
 <ol>
-<li>https://freelancer.com/  Online staffing platform where you can sell your work.[*]</li>
-<li>https://odesk.com/  Online staffing platform where you can sell your work.[*]</li>
+<li>http://stackoverflow.com/ A question and answer site for professional and enthusiast programmers. [*]</li>
+<li>https://freelancer.com/  Online staffing platform where you can sell your work. [*]</li>
+<li>https://odesk.com/  Online staffing platform where you can sell your work. [*]</li>
 <li>https://elance.com/ Online staffing platform where you can sell your work. [*]</li>
 <li>http://github.com/ Web based code repository. [*]</li>
 <li>https://gist.github.com/ Share / Backup you code snippets. [*]</li>

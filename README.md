@@ -8,6 +8,8 @@ As always I tried to keep my eyes on Git that's why I am going to make this repo
 Also their are a lot of developer don't know that is the list of things he / she must know about, this is where they can find the list.
 
 <ol>
+<li>http://code.tutsplus.com/ A website about Web Design / Development News, Tutorials, Articles.</li>
+<li>http://sixrevisions.com/ A website about Web Design / Development News, Tutorials, Articles.</li>
 <li>http://backbonejs.org/ JavaScript library / Javascript MVC Framework.</li>
 <li>http://css3.info/ All about CSS to decorate your Markup.</li>
 <li>http://jquery.com/ A very powerful and rich Javascript Library.</li>

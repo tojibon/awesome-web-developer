@@ -11,6 +11,7 @@ Also their are a lot of developer don't know that is the list of things he / she
 All the [*] marked sites has support for account registration.
 
 <ol>
+<li>https://wordpress.org/ The most powerful CMS ever in PHP. [*]</li>
 <li>https://news.ycombinator.com/ Read technological, educational components here. [*]</li>
 <li>http://goo.gl/ Google URL Shortener. [*]</li>
 <li>http://jsbeautifier.org/ html or js beautifier online or beautifier extension for different browser or IDE.</li>

@@ -40,6 +40,7 @@ All the [*] marked sites has support for account registration.
 <li>http://backbonejs.org/ JavaScript library / Javascript MVC Framework.</li>
 <li>http://css3.info/ All about CSS to decorate your Markup.</li>
 <li>http://jquery.com/ A very powerful and rich Javascript Library.</li>
+<li>https://apachefriends.org/ XAMPP is the most popular PHP development environment. XAMPP is a completely free, easy to install Apache distribution containing MySQL, PHP, and Perl.</li>
 <li>http://wampserver.com/en/ A Windows web development environment. It allows you to create web applications with Apache2, PHP and a MySQL database. </li>
 <li>http://php.net/ PHP: Hypertext Preprocessor website.</li>
 <li>http://w3schools.com/ Primary Level School of Web Developer.</li>

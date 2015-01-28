@@ -9,6 +9,9 @@ Also their are a lot of developer don't know that is the list of things he / she
 
 <ol>
 <li>http://backbonejs.org/ JavaScript library / MVC framework.</li>
+<li>http://css3.info/ All about CSS</li>
+<li>http://jquery.com/ Javascript Library</li>
+<li>http://w3schools.com/ Primary Level School of Web Developer</li>
 </ol>
 
 ## Contributing

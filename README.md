@@ -11,6 +11,7 @@ Also their are a lot of developer don't know that is the list of things he / she
 All the [*] marked sites has support for account registration.
 
 <ol>
+<li>http://envato.com A marketplace to sell your development like scripts, theme, plugins, application, graphics work etc.</li>
 <li>http://codeigniter.com/ A rich and most popular PHP MVC frameworks.</li>
 <li>http://cakephp.org/ A rich PHP MVC frameworks.</li>
 <li>http://zend.com A site for PHP Zend Framework, Certification, IDE, Server, Training, Book etc. [*]</li>

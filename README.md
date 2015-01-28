@@ -11,6 +11,7 @@ Also their are a lot of developer don't know that is the list of things he / she
 All the [*] marked sites has support for account registration.
 
 <ol>
+<li>http://goo.gl/ Google URL Shortener. [*]</li>
 <li>http://jsbeautifier.org/ html or js beautifier online or beautifier extension for different browser or IDE.</li>
 <li>http://codepen.io/ It is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write. [*]</li>
 <li>http://stackoverflow.com/ A question and answer site for professional and enthusiast programmers. [*]</li>

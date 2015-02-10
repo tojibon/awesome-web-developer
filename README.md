@@ -11,6 +11,8 @@ Also their are a lot of developer don't know that is the list of things he / she
 All the [*] marked sites has support for account registration.
 
 <ol>
+<li>http://emberjs.com/ JavaScript Framework</li>
+<li>http://en.wikipedia.org/wiki/List_of_JavaScript_libraries List of JavaScript Libraries</li>
 <li>http://magento.com/ Multistore supported most powerful Shopping Cart CMS in PHP with zend framework. [*]</li>
 <li>https://wordpress.org/ The most powerful CMS ever in PHP. [*]</li>
 <li>https://news.ycombinator.com/ Read technological, educational components here. [*]</li>
